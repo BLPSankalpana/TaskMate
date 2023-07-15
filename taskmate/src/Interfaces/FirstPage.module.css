@@ -1,0 +1,52 @@
+.MainContainer {
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    align-content: center;
+  }
+  
+  .Heading1 {
+    color: #6D485B;
+  }
+  .heading3{
+    color:#6D485B;
+  }
+  
+  .para {
+    text-align: justify;
+    color: #f2ebed;
+  }
+  
+  .textfield {
+    border-color: #f2ebed;
+    margin-bottom: 10px;
+   
+  }
+  .text{
+    color:#6D485B;
+    
+  }
+  
+  .card {
+    width: 300px;
+    position: relative;
+    border: 2px solid #f2ebed;
+    border-radius: 4px;
+    
+    margin-left:150px;
+    
+  }
+  
+  .cardAction {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+   .imageContainer {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        margin-right: 50px;
+        
+      }
